@@ -85,3 +85,11 @@ Full dependencies are listed in [requirements.txt](requirements.txt).
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
+## 🧭 Roadmap
+- v1.1.0: Add interactive visualizations (Plotly, Dash, or Power BI)  
+- v2.0.0: Extend with ML forecasting (Prophet/ARIMA) and automated sector rotation strategy  
+
+
+## 👥 Credits
+- Analysis and interpretation by **Máté Lukács**  
+- Data collected from [Yahoo Finance](https://finance.yahoo.com/) as part of a group project 
